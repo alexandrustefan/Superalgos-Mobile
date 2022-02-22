@@ -1,5 +1,5 @@
 import React, {FC} from "react"
-import {View,   Image,  ViewStyle, ImageStyle, TextStyle} from "react-native"
+import {View, ViewStyle, TextStyle} from "react-native"
 import {StackScreenProps} from "@react-navigation/stack"
 import {observer} from "mobx-react-lite"
 import {
